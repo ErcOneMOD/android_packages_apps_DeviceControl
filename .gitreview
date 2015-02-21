@@ -1,5 +1,0 @@
-[gerrit]
-host=review.blissroms.com
-port=29418
-project=android_packages_apps_DeviceControl.git
-defaultbranch=lp5.0
